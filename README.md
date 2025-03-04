@@ -1,1 +1,1 @@
-# Portfolio-goldi
+Built a professional, fully responsive portfolio website to showcase my skills and projects, using HTML, CSS, React, and React Bootstrap. The website is designed to be user-friendly, visually engaging, and optimized for a seamless experience across all devices. With a focus on clean design and functionality, I utilized React to add dynamic content and React Bootstrap to ensure responsiveness and consistency across screen sizes.
